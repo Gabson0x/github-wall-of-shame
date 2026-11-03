@@ -1,0 +1,25 @@
+{
+  "type": "Repository",
+  "id": 2,
+  "name": "web",
+  "active": true,
+  "events": [
+    "push"
+  ],
+  "config": {
+    "url": "https://example.com/webhook",
+    "content_type": "json",
+    "insecure_ssl": "0"
+  },
+  "updated_at": "2026-09-25T12:46:51Z",
+  "created_at": "2026-09-25T12:46:51Z",
+  "url": "https://[LAB-IP]/api/v3/repos/bountyforge/heifhunt/hooks/2",
+  "test_url": "https://[LAB-IP]/api/v3/repos/bountyforge/heifhunt/hooks/2/test",
+  "ping_url": "https://[LAB-IP]/api/v3/repos/bountyforge/heifhunt/hooks/2/pings",
+  "deliveries_url": "https://[LAB-IP]/api/v3/repos/bountyforge/heifhunt/hooks/2/deliveries",
+  "last_response": {
+    "code": null,
+    "status": "unused",
+    "message": null
+  }
+}
